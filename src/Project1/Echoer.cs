@@ -4,6 +4,6 @@ public class Echoer
 {
     public string Echo(string message)
     {
-        return message;
+        return message + "A";
     }
 }
